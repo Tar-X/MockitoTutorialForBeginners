@@ -8,15 +8,15 @@ import java.util.List;
 
 import org.junit.Test;
 
-import com.in28minutes.junit.business.ClientBO;
-import com.in28minutes.junit.business.ClientBOImpl;
-import com.in28minutes.junit.business.exception.DifferentCurrenciesException;
-import com.in28minutes.junit.model.Amount;
-import com.in28minutes.junit.model.AmountImpl;
-import com.in28minutes.junit.model.Currency;
-import com.in28minutes.junit.model.Product;
-import com.in28minutes.junit.model.ProductImpl;
-import com.in28minutes.junit.model.ProductType;
+import com.hsaalen.junit.business.ClientBO;
+import com.hsaalen.junit.business.ClientBOImpl;
+import com.hsaalen.junit.business.exception.DifferentCurrenciesException;
+import com.hsaalen.junit.model.Amount;
+import com.hsaalen.junit.model.AmountImpl;
+import com.hsaalen.junit.model.Currency;
+import com.hsaalen.junit.model.Product;
+import com.hsaalen.junit.model.ProductImpl;
+import com.hsaalen.junit.model.ProductType;
 
 public class ClientBOTestRefactored {
 
